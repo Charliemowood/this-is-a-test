@@ -29,7 +29,7 @@ public class TemplateContextGenerator_Test {
    */
 
   @org.junit.Test
-  public void com_facebook_swift_generator_template_TemplateContextGenerator_nameStartsWithAcronym_6b660d252b2b90ac_001() throws Throwable {
+  public void test_nameStartsWithAcronym_6b660d252b2b90ac_001() throws Throwable {
 
     boolean retval;
     {
